@@ -1,0 +1,17 @@
+aniso8601==9.0.1
+attrs==20.3.0
+click==8.0.0a1
+Flask==1.1.2
+flask-restplus==0.11.0
+Flask-SQLAlchemy==2.5.1
+greenlet==1.0.0
+itsdangerous==2.0.0rc1
+Jinja2==3.0.0a1
+jsonschema==3.2.0
+MarkupSafe==2.0.0rc1
+pyrsistent==0.17.3
+pytz==2021.1
+-e git+https://github.com/postrational/rest_api_demo/@aee4dab17bc977f432dbe5fdb9a1b5887711c8e2#egg=rest_api_demo
+six==1.15.0
+SQLAlchemy==1.4.2
+Werkzeug==0.16.1
